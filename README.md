@@ -31,3 +31,6 @@ The ``Global Scale`` attribute on ``root_ctrl`` scales uniformly the entire rig,
 No skin cluster, constraints only for a lighter rig!
 ```
 
+| Front | Back | Left | Right |
+|--------|--------|--------|--------|
+| <img src="https://github.com/user-attachments/assets/9aca7cea-605e-4489-b957-93b65ab97b85" width="150"> | <img src="https://github.com/user-attachments/assets/3126a39e-29ef-477d-a854-e3cf66626cb5" width="150"> | <img src="https://github.com/user-attachments/assets/da6c071c-5d71-4d71-8fa9-4b63f54e2f4b" width="150"> | <img src="https://github.com/user-attachments/assets/b754ff2a-ce88-444e-a9a3-684e26b89489" width="150"> |
