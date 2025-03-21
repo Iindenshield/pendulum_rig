@@ -11,6 +11,7 @@ Rigged in Autodesk Maya 2025, tested in Maya 2022
 
 ### Independent base rotation
 The pendulum head (or base) can be rotated independently without affecting the pendulum arm using the ``main_rotate_ctrl``!
+
 <img src="https://github.com/user-attachments/assets/73b88325-da2c-45e3-8798-93921e22f30e" width="250" height="250">
 
 ### Hide pendulum parts
