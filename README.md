@@ -7,6 +7,11 @@ A simple pendulum rig with extra yet useful features for animators of all skill 
 Rigged in Autodesk Maya 2025, tested in Maya 2022
 ```
 
+### Download
+
+Available on Gumroad: [The Pendulum - Maya Rig](https://iolandafilipponi.gumroad.com/l/thependulumrig?layout=profile)
+
+
 ## Features
 
 ### Independent base rotation
