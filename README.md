@@ -1,6 +1,9 @@
 # The Pendulum Rig
 A simple pendulum rig with extra yet useful features for animators of all skill levels!
 
+##### WIP animation
+![JanuaryGroupProject_ANIM_v22](https://github.com/user-attachments/assets/c4f155de-21e8-42f3-8f3c-b28c2db43aef)
+
 ### Compatibility
 
 ```
